@@ -1,0 +1,7 @@
+POST  http://localhost:3000/api/addproduct
+Content-Type: application/json
+{   
+    "name":"Double Ginger ",
+    "imageurl":"https://firebasestorage.googleapis.com/v0/b/freshdrink-b55c3.appspot.com/o/img%2Fcollage-banner-3.png?alt=media&token=4185d27a-58c9-4399-93ab-d85d8f755756",
+    "price":650
+}
